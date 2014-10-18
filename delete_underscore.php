@@ -24,3 +24,5 @@ function alltrire_sil($cumle) {
 	return  implode("",$array);
 }
 ?>
+
+burak
